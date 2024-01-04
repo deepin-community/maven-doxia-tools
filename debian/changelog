@@ -1,3 +1,14 @@
+maven-doxia-tools (1.4-5) unstable; urgency=medium
+
+  * Team upload.
+  * Drop libmaven-doxia-tools-java-doc package (Closes: #1028170)
+  * Update Homepage URL
+  * Freshen years in debian/copyright
+  * Set Rules-Requires-Root: no in debian/control
+  * Use debhelper-compat (=13)
+
+ -- tony mancill <tmancill@debian.org>  Sat, 14 Jan 2023 19:28:06 -0800
+
 maven-doxia-tools (1.4-4) unstable; urgency=medium
 
   * Team upload.
